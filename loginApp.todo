@@ -1,0 +1,16 @@
+Create a Log in and Registration Application
+ ☐ Local and Remote Repo Setup.
+ ☐ Login to your github and create repo loginApp-hbs.
+ ☐ Click Create Note Take the default setting such as do not create READM.md because we will create it locally.
+ ☐ Then you have now an empty remote repo.P
+ ☐ While on your local, create a directory loginApp-hbs thne also create a README.md and put any text inside.
+ ☐ Launch terminal then execute the following commands:
+     ☐ $ cd / path_of_your_directory
+     ☐ $ git init
+     ☐ $ git add README.md
+     ☐ $ git config user.email "youremail@example.com"
+     ☐ $ git config user.name "yourname"
+     ☐ $ git commit -m "First commit"
+     ☐ $ git remote add origin https://github.com/yourgithub_username/loginApp-hbs.git
+     ☐ $ git push -u origin master
+           ☐ Reload your github and observe the changes applied to your repo loginApp-hbs.
